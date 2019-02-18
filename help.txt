@@ -1,0 +1,18 @@
+Use commands to execute tasks:
+/1 to reset server: /1
+/2 to reset server: /2
+/3 to reset server: /3
+/4 to reset server: /4
+/5 to reset server: /5
+/6 to reset server: /6
+/7 to reset server: /7
+/8 to reset server: /8
+/rename to rename command
+example: /rename_/OldName_/NewName
+/add to add users
+example: /add_chatid_name_type
+chatid is a telegram id
+name is a name user
+type is a type user:
+"a" to admin
+"u" to user
