@@ -11,3 +11,7 @@ It's can be used for many users in the same time so for more control was created
 
 It's possible rename the relays too.
 Was created a help with the commands.
+
+It's needed put your token in variable: self.telegram_token
+
+And the pins of raspberry used to relay was: pinList = [4, 17, 18, 22, 23, 24, 25, 27]
